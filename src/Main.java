@@ -5,7 +5,7 @@ public class Main {
         //Serie Fibonacci
 
         Scanner scan = new Scanner(System.in);
-        System.out.println("Escribe la cantida de numeros que deseas generar: ");
+        System.out.println("Escribe la cantidad de numeros que deseas generar: ");
         int cantidadNumeros = scan.nextInt();
 
         Long i = 0l;
